@@ -17,7 +17,7 @@ export default siteConfig({
   description: 'Qirui He',
 
   // social usernames (optional)
-  github: 'Qirui He',
+  github: 'HQR2000',
   linkedin: 'Qirui He',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
