@@ -55,7 +55,7 @@
 }
 
 .notion-gallery-grid .notion-page-icon-inline {
-  display: none;
+  display: block;
 }
 
 .notion-gallery-grid .notion-page-title-text {
