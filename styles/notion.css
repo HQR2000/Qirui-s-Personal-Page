@@ -180,7 +180,7 @@
 }
 
 .notion-collection-row-value {
-  display: flex;
+  display: flex-start;
   align-items: flex-start;
   padding: 0;
   min-height: 23px;
