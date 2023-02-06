@@ -8,4 +8,8 @@
 
 This repo is what I use to power my personal blog and portfolio site [qirui-he.vercel.app](qirui-he.vercel.app).
 
-Thanks for the sharing of **Travis Fischer**, this repository is forked from his work [nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit). By following some simple steps in his project, everyone can build their own website. Don't hesitate, have a try!
+Thanks for the sharing of **Travis Fischer**, this repository is forked from his work [nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit). 
+
+By following some simple steps in his project, everyone can build their own website. 
+
+If you found this project interesting, don't hesitate, have a try!
